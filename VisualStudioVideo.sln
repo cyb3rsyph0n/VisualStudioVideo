@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualStudioVideo", "VisualStudioVideo\VisualStudioVideo.csproj", "{6900E7FE-6B8F-4D64-8207-422703A1D9DC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "VideoSetup", "VideoSetup\VideoSetup.vdproj", "{2345EDB5-54C8-451F-8958-2F3E177A407F}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6900E7FE-6B8F-4D64-8207-422703A1D9DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6900E7FE-6B8F-4D64-8207-422703A1D9DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6900E7FE-6B8F-4D64-8207-422703A1D9DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6900E7FE-6B8F-4D64-8207-422703A1D9DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2345EDB5-54C8-451F-8958-2F3E177A407F}.Debug|Any CPU.ActiveCfg = Debug
+		{2345EDB5-54C8-451F-8958-2F3E177A407F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
